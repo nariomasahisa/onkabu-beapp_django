@@ -37,6 +37,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'onkabu.apps.OnkabuConfig',
     'portfolio.apps.PortfolioConfig',
+    'calc_value.apps.CalcValueConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
